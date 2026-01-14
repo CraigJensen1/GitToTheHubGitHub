@@ -5,6 +5,8 @@ Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
 
+Console.WriteLine("ADD COOL FEATURE!");
+
 for (int i = 0; i < 5; i++) 
 {
     Console.Write(i);
